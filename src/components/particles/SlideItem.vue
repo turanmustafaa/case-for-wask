@@ -1,5 +1,5 @@
 <template>
-  <div class="h-28 w-28 p-4 bg-slate-200 rounded-xl my-3 mx-auto flex items-center justify-center">
+  <div class="h-28 w-28 p-4 bg-slate-200 rounded-xl my-10 mx-auto flex items-center justify-center">
     <img :src="`/assets/images/${item + 1}.png`" alt="" />
   </div>
 </template>
