@@ -1,4 +1,4 @@
-# Network Hardwares Frontend Case
+# Wask Frontend Case
 
 Bu proje, iş başvurusu için geliştirilen bir case projesidir. Bu README dosyası, projenin genel yapısını, kullanılan teknolojiler ve projeyi çalıştırma adımlarını içerir.
 
