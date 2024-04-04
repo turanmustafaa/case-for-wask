@@ -32,7 +32,7 @@ Bu proje, Vue3 Composition api kullanılarak geliştirilmiştir. Aşağıda proj
 
 - proje linki aşağıdadır.
 
-- https://master--deft-basbousa-c617a9.netlify.app/home
+- https://master--deft-basbousa-c617a9.netlify.app/
 
 
 ## Nasıl Çalıştırılır?
