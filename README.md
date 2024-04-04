@@ -29,6 +29,7 @@ Bu proje, Vue3 Composition api kullanılarak geliştirilmiştir. Aşağıda proj
 - Animasyonlar, geçişler ve tüm stil işlemleri Tailwind CSS ile yapıldı.
 - aynı zamanda apexcharts ile animasyonlar kuvvetlendi.
 - Projenin tamamı Tailwind CSS ile yazıldı. sadece tek bir bolumde custom css yazılmak durumunda kalındı. Zaman kazanmak amacıyla bu tercih yapıldı.
+-son olarak mobil'e uygun tasarlanmadı bu yuzden min 1280 px cihazlarda calistiriniz.
 
 - proje linki aşağıdadır.
 

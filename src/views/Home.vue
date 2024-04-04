@@ -1,11 +1,11 @@
 <template>
 
   <div class="grid grid-cols-12 container mx-auto py-20 h-[90vh] gap-10 overflow-hidden">
-    <div class="col-span-1 pt-16">
+    <div class="col-span-2 pt-16">
       <Slider :fromWhere="true" />
     </div>
 
-    <div class="col-span-10 flex flex-col gap-10">
+    <div class="col-span-8 flex flex-col gap-10">
       <Head />
       <div>
         <div class="flex justify-between items-center">
@@ -28,7 +28,7 @@
       </div>
     </div>
 
-    <div class="col-span-1 pt-16">
+    <div class="col-span-2 pt-16">
       <Slider />
     </div>
   </div>
